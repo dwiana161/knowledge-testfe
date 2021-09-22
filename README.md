@@ -38,7 +38,7 @@ This app show different page by using vue-router
 * Passing Data menggunakan URL Dynamic Segment
 Pada views job terdapat list job, ketika salah satu di klik, maka halaman akan berpindah ke halaman job yang dipilih dan akan menampilkan id dari halaman yang dipilih tersebut.
 ![4](https://user-images.githubusercontent.com/55675935/134435497-ad50766c-5122-40dc-afb2-aa8522f4fb41.png)
-* untuk menuju halaman selanjutnya pada <route-links> menggunakan named routes yang ditambahkan parameter untuk menuju ke views detail job yang sesuai.
+* untuk menuju halaman selanjutnya pada route-links menggunakan named routes yang ditambahkan parameter untuk menuju ke views detail job yang sesuai.
   
   ![2](https://user-images.githubusercontent.com/55675935/134435491-6c333a53-c770-4978-a62d-10899fcb8ad6.png)
 * pada jobsdetail id didapatkan dengan menggunakan props
