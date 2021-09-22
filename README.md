@@ -30,9 +30,9 @@ The project was developed using :
 * Vue-Router
 
 This app show different page by using vue-router
-* <router-link></router-link> 
+* router-link 
 ### `mendefinisikan path URL dari views yang dituju`
-* <router-view />
+* router-view
 ### `menampilkan view halaman yang dituju`
 * Passing Data menggunakan URL Dynamic Segment
 Pada views job terdapat list job, ketika salah satu di klik, maka halaman akan berpindah ke halaman job yang dipilih dan akan menampilkan id dari halaman yang dipilih tersebut.
