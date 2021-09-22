@@ -45,6 +45,7 @@ Pada views job terdapat list job, ketika salah satu di klik, maka halaman akan b
   
   ![3](https://user-images.githubusercontent.com/55675935/134435496-db3359bc-e2a7-4311-bac8-d255c6dc81ca.png)
 * maka hasilnya
+  
   ![5](https://user-images.githubusercontent.com/55675935/134436047-46c4a8b0-359b-476a-a2a1-90e5ad4f7f01.png)
   ![6](https://user-images.githubusercontent.com/55675935/134436051-1ce3714d-d6fd-41bb-90ca-ba31637445a5.png)
   ![7](https://user-images.githubusercontent.com/55675935/134436053-4c283710-d11f-4825-8749-291ee741c470.png)
