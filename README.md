@@ -39,7 +39,7 @@ This app show different page by using vue-router
 Pada views job terdapat list job, ketika salah satu di klik, maka halaman akan berpindah ke halaman job yang dipilih dan akan menampilkan id dari halaman yang dipilih tersebut.
 ![4](https://user-images.githubusercontent.com/55675935/134435497-ad50766c-5122-40dc-afb2-aa8522f4fb41.png)
 * untuk menuju halaman selanjutnya pada <route-links> menggunakan named routes yang ditambahkan parameter untuk menuju ke views detail job yang sesuai.
-![2](https://user-images.githubusercontent.com/55675935/134435491-6c333a53-c770-4978-a62d-10899fcb8ad6.png)
+  ![2](https://user-images.githubusercontent.com/55675935/134435491-6c333a53-c770-4978-a62d-10899fcb8ad6.png)
 * pada jobsdetail id didapatkan dengan menggunakan props
-![3](https://user-images.githubusercontent.com/55675935/134435496-db3359bc-e2a7-4311-bac8-d255c6dc81ca.png)
+  ![3](https://user-images.githubusercontent.com/55675935/134435496-db3359bc-e2a7-4311-bac8-d255c6dc81ca.png)
 * maka hasilnya
